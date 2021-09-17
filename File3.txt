@@ -8,3 +8,8 @@ public int avg(int a, int b){
 public int mathPower(int a, int b) {
 return Math.pow(a, b);
 }
+
+#A00443958
+public int findMax(int a, int b) {
+return Math.max(a,b);
+}
