@@ -1,0 +1,4 @@
+#A000444846
+public int mathPower(int a, int b) {
+return Math.pow(a, b);
+}
