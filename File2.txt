@@ -2,3 +2,8 @@
 public int mod(int a, int b){
 	return a % b;
 }
+
+#A00444846
+public int mod(int a, int b){
+	Math.max(a, b);
+}
